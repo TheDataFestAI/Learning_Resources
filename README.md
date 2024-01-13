@@ -24,6 +24,8 @@ ID | Name                 | Description                          | URL
 :- | :------------------- | :----------------------------------- | :-------------------------------------------------
 1  | Unfold Data Science  | 10 ML algorithms                     | https://www.youtube.com/watch?v=z18nw4adsx4
 2  | Data Professor       | Build first ML model                 | https://www.youtube.com/watch?v=29ZQ3TDGgRQ&t=1631s
+3  | codebasics           | Short ML Playlists                   | https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+4  | Krish Naik           | Live ML Playlists                    | https://www.youtube.com/playlist?list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
 
 
 ## AI/ML Code Samples:
