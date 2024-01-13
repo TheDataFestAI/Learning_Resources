@@ -19,4 +19,4 @@ ID | Name                 | Description           | URL
 
 
 ## Developer Contacts:
-Indranil Pal
+Indranil Pal (https://www.linkedin.com/in/indranil-pal-eca/)
